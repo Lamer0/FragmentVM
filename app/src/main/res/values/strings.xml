@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fragments Chat</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="send">Send</string>
+</resources>
