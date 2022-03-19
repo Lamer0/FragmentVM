@@ -3,9 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Programming/KotlinAndroid/FragmentVM/app/src/main/res/layout-navexposed/navgaph.xml" value="0.8925" />
         <entry key="..\:/Programming/KotlinAndroid/FragmentVM/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Programming/KotlinAndroid/FragmentVM/app/src/main/res/layout/fragment_about.xml" value="0.371875" />
         <entry key="..\:/Programming/KotlinAndroid/FragmentVM/app/src/main/res/layout/fragment_lower.xml" value="0.25" />
+        <entry key="..\:/Programming/KotlinAndroid/FragmentVM/app/src/main/res/layout/fragment_main.xml" value="0.371875" />
         <entry key="..\:/Programming/KotlinAndroid/FragmentVM/app/src/main/res/layout/fragment_upper.xml" value="0.33" />
+        <entry key="..\:/Programming/KotlinAndroid/FragmentVM/app/src/main/res/layout/navgaph.xml" value="0.33" />
         <entry key="..\:/Users/Auslander/source/repos/FragmentVM/app/src/main/res/layout/activity_main.xml" value="0.225" />
         <entry key="..\:/Users/Auslander/source/repos/FragmentVM/app/src/main/res/layout/fragment_lower.xml" value="0.225" />
         <entry key="..\:/Users/Auslander/source/repos/FragmentVM/app/src/main/res/layout/fragment_upper.xml" value="0.225" />
